@@ -6,3 +6,6 @@ Git is free software.
 
 
 distributed
+
+
+append GPL
